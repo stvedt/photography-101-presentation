@@ -118,6 +118,8 @@ module.exports = function(grunt) {
 
     grunt.registerTask('serve', 'watching files and connecting using grunt connect', ['clean', 'sass', 'copy', 'includes','connect','watch']);
 
+    grunt.registerTask('build', ['clean', 'sass', 'copy', 'includes']);
+
     // - - - - - - - - -  - - - - - - - - -  - - - - - - - - -
 
   }
