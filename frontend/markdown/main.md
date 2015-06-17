@@ -41,13 +41,15 @@ Modifies the light before entering the camera body.
 
 - Focal Length
 - Aperture
+- Prime vs. Zoom
 
 --
 
-### Sensor/Film
+### Digital Sensor/Film
 
 - Captures and records the actual images
 - Less dynamic range than our eyes
+- Digital Sensor puts the D in DSLR
 
 --
 
@@ -75,7 +77,7 @@ A stop is a halving/doubling of light.
 
 ### Shutter Speed
 
-A shutter controls how long the film/digital sensor is exposed to light.
+The shutter controls how long the film/digital sensor is exposed to light.
 
 - Flap on pinhole camera
 - Curtains on an SLR
@@ -87,7 +89,7 @@ A shutter controls how long the film/digital sensor is exposed to light.
 
 ### Aperture
 
-A shutter controls how long the film/digital sensor is exposed to light.
+The Aperture controls how much light passes through the lens.
 
 - Adjustable in the lens
 - Size of the hole which light travels through.
@@ -160,6 +162,7 @@ Set one point in exposure triangle.
 
 - Shutter Speed
 - Aperture
+- Exposure Compensation
 
 --
 
@@ -190,6 +193,12 @@ Increase or decrease the exposure from light meter.
 - Wide depth of field
 
 ![""](images/large-dof.jpg)
+
+--
+
+### Bokeh
+
+![""](images/bokeh.jpg)
 
 --
 
@@ -289,8 +298,31 @@ Control/lock focus and exposure.
 
 ---
 
-## Things
-### Some other stuff
+## Practice
+___
+
+### Take some photos
+
+### Ask Questions!
+
+- Use manual mode to create a good exposure
+- Use a priority mode for creative effect
+
+--
+
+## Thanks!
+
+Check out my photos on Flickr and Instagram @stephen_tvedt!
+
+
+___
+
+
+### Future Classes
+
+- Composition/Optics
+- Low Light, (HDR, Light Painting, Long Exposure)
+
 
 
 
