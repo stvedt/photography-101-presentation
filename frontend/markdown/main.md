@@ -3,7 +3,7 @@
 - Camera Anatomy
 - Exposure Basics
 - Workflow
-- Creative Decisions
+- Creative Considerations
 
 ---
 
@@ -19,19 +19,19 @@ A lightproof box that refracts light to project an image onto a medium for recor
 
 ### Camera Obscura
 
-![""](/images/obscura.jpg)
+![""](images/obscura.jpg)
 
 --
 
 ### Pinhole Camera
 
-![""](/images/pinhole.jpg)
+![""](images/pinhole.jpg)
 
 --
 
 ### Single-Lens Reflex (SLR)
 
-![""](/images/slr.gif)
+![""](images/slr.gif)
 
 --
 
@@ -44,9 +44,17 @@ Modifies the light before entering the camera body.
 
 --
 
-### Shutter Curtain
+### Sensor/Film
 
-![""](/images/shutter-edit.gif)
+- Captures and records the actual images
+- Less dynamic range than our eyes
+
+--
+
+### Shutter
+
+- Flap on pinhole camera
+- Curtains on an SLR
 
 ---
 
@@ -59,12 +67,21 @@ The amount of light that hits a recording medium.
 
 --
 
+### Light is Measured in Stops
+
+A stop is a halving/doubling of light.
+
+--
+
 ### Shutter Speed
 
 A shutter controls how long the film/digital sensor is exposed to light.
 
 - Flap on pinhole camera
 - Curtains on an SLR
+- Full stops: 1/500s, 1/250s, etc.
+
+![""](images/shutter-edit.gif)
 
 --
 
@@ -75,21 +92,21 @@ A shutter controls how long the film/digital sensor is exposed to light.
 - Adjustable in the lens
 - Size of the hole which light travels through.
 - Measure in F-stops
+- Full stops: f/2.8, f/5, f/5.6, f/8, f/11, f/16, f22
 
 --
 
-### Sensitivity (ISO/Film Speed)
-
-Different mediums have varying sensitivity to light.
-
-- Flap on pinhole camera
-- Curtains on an SLR
+![""](images/aperture.jpg)
 
 --
 
-### Light is Measured in Stops
+### Sensor/Film Sensitivity
 
-One stop is a complete halving/doubling in the amount of light.
+
+Different mediums have varying sensitivity to light (Measured with ISO & Film Speed).
+
+- Higher sensitivy = more light
+- Risk of noise/grain
 
 ---
 
@@ -97,9 +114,20 @@ One stop is a complete halving/doubling in the amount of light.
 
 --
 
+### Through the Viewfinder
+
+- Exposure Settings
+- Light Meter
+- Focus Points
+- Aperture is always wide open. (DoF Preview Button)
+
+![""](images/viewfinder-final.jpg)
+
+--
+
 ### Pressing the Shutter Button
 
-- Half Press = Light Meter
+- Half Press = Light Meter & Focus
 - Full Press = Take Image
 
 --
@@ -141,7 +169,7 @@ Increase or decrease the exposure from light meter.
 
 ---
 
-## Creative Decisions
+## Creative Considerations
 
 - Exposure Triangle for Creative Effect
 - Subject/Background
@@ -153,7 +181,7 @@ Increase or decrease the exposure from light meter.
 
 - Shallow depth of field
 
-![""](/images/spies-people.png)
+![""](images/small-dof.jpg)
 
 --
 
@@ -161,13 +189,13 @@ Increase or decrease the exposure from light meter.
 
 - Wide depth of field
 
-![""](/images/spies-people.png)
+![""](images/large-dof.jpg)
 
 --
 
 ### Fast Shutter Speed
 
-![""](/images/drop.jpg)
+![""](images/drop.jpg)
 
 "Drop001" by unbekannt270
 
@@ -175,20 +203,27 @@ Increase or decrease the exposure from light meter.
 
 ### Slow Shutter Speed
 
-![""](/images/slow.jpg)
+![""](images/slow.jpg)
+
 --
 
 ### Wide-Angle
 
-![""](/images/spies-people.png)
+![""](images/wide.jpg)
 
 --
 
 ### Telephoto
 
-![""](/images/spies-people.png)
+![""](images/telephoto.jpg)
 
-___
+--
+
+### Dynamic Range
+
+![""](images/low-dynamic.jpg)
+
+---
 
 ## Workflow
 
@@ -201,7 +236,7 @@ How to manage and edit images.
 RAW vs. JPG
 
 - Quality vs. Filesize
-- Many raw file formats, including  K25, KDC (Kodak), CR2 (Canon), ERF (Epson), MEF (Mamiya), MOS (Leaf), NEF (Nikon), ORF (Olympus), PEF (Pentax), RW2 (Panasonic) and ARW, SRF, SR2 (Sony), are based on the TIFF file format.[4] These files may deviate from the TIFF standard in a number of ways, including the use of a non-standard file header, the inclusion of additional image tags and the encryption of some of the tagged data.
+- Many raw file formats, including  K25, KDC, CR2, ERF, MEF, MOS, NEF, ORF, PEF, RW2 and the list goes on.
 
 --
 
@@ -230,11 +265,15 @@ Point & Shoot = Control & Convenience
 
 Phone = Convenience
 
+--
+
 ### iPhone/SmartPhones
 
 The key the ability to take control.
 
 Control/lock focus and exposure.
+
+--
 
 ### Noteworthy Apps
 
