@@ -6,7 +6,7 @@
  */
 @font-face {
   font-family: 'Gotham Thin';
-  src: url("/fonts/Gotham-Thin.otf");
+  src: url("../fonts/Gotham-Thin.otf");
   font-weight: normal;
   font-style: normal;
 }
@@ -166,7 +166,7 @@ body {
 }
 
 section > ul > li, section > div > ul > li {
-/*  list-style-image: url("/images/SDT-bullet.png");*/
+/*  list-style-image: url("../images/SDT-bullet.png");*/
   list-style-image: none;
   list-style: none;
   padding:0;
@@ -182,7 +182,8 @@ section > ul > li:before, section > div > ul > li:before {
 #logo-overlay {
   width: 100%;
   height: 46px;
-  background: url("/images/new-assets/spies-logo.png") no-repeat center;
+  display: none;
+  background: url("../images/spies-logo.png") no-repeat center;
   position: absolute;
   top: 25px;
   opacity: 1.0;

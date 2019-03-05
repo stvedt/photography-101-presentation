@@ -105,7 +105,8 @@ module.exports = function(grunt) {
         server: {
           options: {
             port: 9001,
-            base: 'build'
+            base: 'build',
+            open: true
           }
         }
       }
@@ -116,6 +117,8 @@ module.exports = function(grunt) {
     // - - - - - - - - -  - - - - - - - - -  - - - - - - - - -
 
     grunt.registerTask('serve', 'watching files and connecting using grunt connect', ['clean', 'sass', 'copy', 'includes','connect','watch']);
+
+    grunt.registerTask('build', ['clean', 'sass', 'copy', 'includes']);
 
     // - - - - - - - - -  - - - - - - - - -  - - - - - - - - -
 
